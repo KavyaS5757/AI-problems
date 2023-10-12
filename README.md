@@ -8,3 +8,6 @@ https://www.kaggle.com/code/kavyasmallika/notebookff29a6203a
 
 # Trace Phone Number
 https://www.kaggle.com/code/kavyasmallika/notebook9d9d28b20f
+
+# Check Validate Email Address using regex
+https://www.kaggle.com/kavyasmallika/check-validate-email-regex
