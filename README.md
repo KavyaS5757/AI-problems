@@ -14,3 +14,6 @@ https://www.kaggle.com/kavyasmallika/check-validate-email-regex
 
 # Instagram Automation using Python
 https://www.kaggle.com/kavyasmallika/instagram-automation-using-python
+
+# Simple Linear Regression - Placement vs CGPA
+https://www.kaggle.com/code/kavyasmallika/notebook50e95e0f30
