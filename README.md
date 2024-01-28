@@ -17,3 +17,6 @@ https://www.kaggle.com/kavyasmallika/instagram-automation-using-python
 
 # Simple Linear Regression - Placement vs CGPA
 https://www.kaggle.com/kavyasmallika/simple-linear-regression-placement-vs-cgpa
+
+# Multiple Linear Regression - Features vs Target
+https://www.kaggle.com/kavyasmallika/multiple-linear-regression
