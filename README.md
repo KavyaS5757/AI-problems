@@ -20,3 +20,6 @@ https://www.kaggle.com/kavyasmallika/simple-linear-regression-placement-vs-cgpa
 
 # Multiple Linear Regression - Features vs Target
 https://www.kaggle.com/kavyasmallika/multiple-linear-regression
+
+# Multiple Linear Regression - Diabetes
+https://www.kaggle.com/kavyasmallika/multiple-linear-regression-diabetes
