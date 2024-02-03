@@ -1,4 +1,0 @@
-WHAT IS DEEP UNSUPERVISED LEARNING?
-capturing rich patterns in raw data with deep networks in a label-free way
--> Generative Models: recreate raw data distribution
--> Self-supervised learning: "puzzle" tasks that require semantic understanding
