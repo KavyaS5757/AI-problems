@@ -26,3 +26,6 @@ https://www.kaggle.com/kavyasmallika/multiple-linear-regression-diabetes
 
 # Perceptron - Placement example
 https://www.kaggle.com/kavyasmallika/perceptron-placement
+
+# Perceptron2 - Placement (another dataset)
+https://www.kaggle.com/kavyasmallika/perceptron-placement2
