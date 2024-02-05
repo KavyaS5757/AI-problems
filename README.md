@@ -23,3 +23,6 @@ https://www.kaggle.com/kavyasmallika/multiple-linear-regression
 
 # Multiple Linear Regression - Diabetes
 https://www.kaggle.com/kavyasmallika/multiple-linear-regression-diabetes
+
+# Perceptron - Placement example
+https://www.kaggle.com/kavyasmallika/perceptron-placement
