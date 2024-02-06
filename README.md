@@ -29,3 +29,6 @@ https://www.kaggle.com/kavyasmallika/perceptron-placement
 
 # Perceptron2 - Placement (another dataset)
 https://www.kaggle.com/kavyasmallika/perceptron-placement2
+
+# Perceptron3 - Random data
+https://www.kaggle.com/kavyasmallika/perceptron3
