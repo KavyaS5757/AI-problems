@@ -35,3 +35,6 @@ https://www.kaggle.com/kavyasmallika/perceptron3
 
 # Perceptron4 - Random Data
 https://www.kaggle.com/code/kavyasmallika/perceptron4
+
+# Problem with Perceptron
+https://www.kaggle.com/kavyasmallika/problem-with-perceptron
