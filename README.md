@@ -38,3 +38,6 @@ https://www.kaggle.com/code/kavyasmallika/perceptron4
 
 # Problem with Perceptron
 https://www.kaggle.com/kavyasmallika/problem-with-perceptron
+
+# Simple Perceptron from scratch
+https://www.kaggle.com/kavyasmallika/simple-perceptron-neural-network
