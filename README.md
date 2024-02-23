@@ -44,3 +44,6 @@ https://www.kaggle.com/kavyasmallika/simple-perceptron-neural-network
 
 # Multiple Layer Perceptron from scratch
 https://www.kaggle.com/code/kavyasmallika/multilayer-perceptron-from-scratch-bde015
+
+# Principle Component Analysis from scratch
+https://www.kaggle.com/kavyasmallika/principle-component-analysis-from-scratch
