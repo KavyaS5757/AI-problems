@@ -47,3 +47,6 @@ https://www.kaggle.com/code/kavyasmallika/multilayer-perceptron-from-scratch-bde
 
 # Principle Component Analysis from scratch
 https://www.kaggle.com/kavyasmallika/principle-component-analysis-from-scratch
+
+# Polynomial Regression from scratch
+https://www.kaggle.com/code/kavyasmallika/polynomial-regression-from-scatrch
