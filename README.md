@@ -50,3 +50,6 @@ https://www.kaggle.com/kavyasmallika/principle-component-analysis-from-scratch
 
 # Polynomial Regression from scratch
 https://www.kaggle.com/code/kavyasmallika/polynomial-regression-from-scatrch
+
+# Data Extraction
+https://www.kaggle.com/code/kavyasmallika/data-extraction1
